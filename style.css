@@ -106,7 +106,7 @@ img {
   #why .row>.third,
   .row {
     margin-top: 0;
-    width: 550px;
+    width: 100%;
   }
 
   hr {
